@@ -9,7 +9,7 @@ import java.io.InputStreamReader;
  * @author yuQ-7148
  * @date 2023/2/10
  **/
-public class OperatorTest2 {
+public class OperatorDemo2 {
     public static void main(String[] args) throws IOException {
         //需求：一个三位数，将其拆分为个位、十位、百位，输出在控制台
         //输入数
